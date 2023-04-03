@@ -1,0 +1,5 @@
+small_load_carrier
+pallet
+forklift
+pallet_truck
+stillage
